@@ -9,3 +9,9 @@ h1 {
   color: #004080;
   margin-bottom: 10px;
 }
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+}
